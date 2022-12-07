@@ -1,0 +1,105 @@
+.header {
+		background-color: #038fd3;
+		color: white;
+		margin-bottom: 10px;
+		padding: 10px;
+}
+
+
+
+.carousel-item img {
+	display: block;
+	width: 100%;
+}
+
+
+.first {
+		background: #ffc107;
+		padding: 20px;
+		border-radius: 20px;
+		color: white;
+}
+
+
+
+	.second {
+		background-color: #007bff;
+		padding: 20px;
+		border-radius: 20px;
+		color: white;
+}
+
+
+
+	.third {
+
+		background-color: #dc3545;
+		padding: 20px;
+		border-radius: 20px;
+		color: white;
+
+}
+
+
+
+
+	.free {
+		background-color: #28a745;
+		padding: 20px;
+		border-radius: 20px;
+		color: white;
+
+}
+
+
+	article {
+		padding-bottom: 10px;
+	}
+
+
+
+
+
+.footer {
+		background-color: #011e2e;
+		color: white;
+		margin-top: 10px;
+		padding: 10px;
+	}
+
+
+
+.p1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
+}
+
+
+.p2 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 21px;
+}
+
+
+
+.p3 {
+	font-family: 'Architects Daughter', cursive;
+}
+
+
+
+.p4 {
+	font-family: 'Abril Fatface', cursive;
+}
+
+
+
+.p5 {
+	font-family: 'Courgette', cursive;
+}
+
+
+
+.p6 {
+	font-family: 'Lobster Two', cursive;
+}
