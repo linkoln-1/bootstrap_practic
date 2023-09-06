@@ -1,8 +1,9 @@
 .header {
-		background-color: #038fd3;
+		background-color: red;
 		color: white;
 		margin-bottom: 10px;
 		padding: 10px;
+		border-radius: 7px;
 }
 
 
